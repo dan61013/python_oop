@@ -1,8 +1,3 @@
-# 參考學習資源: https://ithelp.ithome.com.tw/articles/10266649
-# 原始語法: TypeScript
-# 類別是一種程式碼的範本，可以用來建立物件、描述當中的屬性與方法，以及提供初始狀態
-# https://youtu.be/CqlM7JjnAi4 延伸閱讀
-
 # 父類別
 class BaseballPlayer(object):
     
